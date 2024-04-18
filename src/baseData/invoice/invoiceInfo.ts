@@ -56,7 +56,7 @@ export type TotalWithTax = {
   /*
   IVA
   0% 0
-  12% 2
+  15% 2
   14% 3
   No Objeto de Impuesto 6
   Exento de IVA 7
